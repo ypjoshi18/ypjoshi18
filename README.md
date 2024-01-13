@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Joshi</h1>
 <h3 align="center">I Code for fun.</h3>
-<h3 align="center">AActively seeking summer 2024 internships | MSCS @ UGA | Ex-Accenture | Python | ML & AI Enthusiast | SQL | .NET | Power BI | Azure Certified</h3>
+<h3 align="center">Actively seeking summer 2024 internships | MSCS @ UGA | Ex-Accenture | Python | ML & AI Enthusiast | SQL | .NET | Power BI | Azure Certified</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
