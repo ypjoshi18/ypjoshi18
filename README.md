@@ -32,6 +32,7 @@ Certifications:
 🏆 Microsoft AZ-900
 🏆 Microsoft PL-900
 🏆 Microsoft SC-900
+
 Interests:
 📊 Data Science, Analysis, ☁️ Cloud Technologies, 📚 Continuous Learning, 👥 Collaboration, 💻 Software Development Engineering (SDE).
 
