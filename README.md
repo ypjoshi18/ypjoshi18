@@ -5,13 +5,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Programming Languages C, C++, Java, Python3, C#   
-Web Application Tools JavaScript, HTML, CSS   
-Database Skills MS SQL 2000, PL/SQL   
-Cloud Technology Microsoft Azure Cloud    
-Tools SQL-Server Management Studio, Microsoft Power-BI(Basic)   
-Platforms Windows XP/Vista/2000, Linux    
-Framework - Django, ASP.NET   
+\section{Profile}
+Enthusiastic computer engineering graduate student with a strong background in various programming languages, including C, C++, Java, Python3, and C#. Proficient in web application development using JavaScript, HTML, and CSS. Experienced in database management with skills in MS SQL 2000 and PL/SQL. Familiar with cloud technologies, specifically Microsoft Azure Cloud.
+
+Adept at using tools such as SQL-Server Management Studio and possessing basic proficiency in Microsoft Power-BI. Experienced in working on multiple platforms, including Windows XP/Vista/2000 and Linux. Skilled in web development frameworks, with expertise in Django and ASP.NET.
+
+Continuously striving for improvement and adapting to new changes, with a demonstrated ability to contribute to team projects and a keen interest in data science and analysis.
+
  
 
 <h3 align="left">Reach me at:</h3>
