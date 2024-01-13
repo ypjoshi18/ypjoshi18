@@ -4,12 +4,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-\section{Profile}
-Enthusiastic computer engineering graduate student with a strong background in various programming languages, including C, C++, Java, Python3, and C#. Proficient in web application development using JavaScript, HTML, and CSS. Experienced in database management with skills in MS SQL 2000 and PL/SQL. Familiar with cloud technologies, specifically Microsoft Azure Cloud.
+\section{Key Strengths}
 
-Adept at using tools such as SQL-Server Management Studio and possessing basic proficiency in Microsoft Power-BI. Experienced in working on multiple platforms, including Windows XP/Vista/2000 and Linux. Skilled in web development frameworks, with expertise in Django and ASP.NET.
-
-Continuously striving for improvement and adapting to new changes, with a demonstrated ability to contribute to team projects and a keen interest in data science and analysis.
+\begin{itemize}
+    \item \textbf{Versatile Programming Skills:} Proficient in a diverse set of programming languages, including C, C++, Java, Python3, and C#. Capable of adapting to various development environments and contributing to projects with a wide range of technical requirements.
+    
+    \item \textbf{Full-stack Web Development Expertise:} Skilled in web application development tools such as JavaScript, HTML, and CSS. Possesses hands-on experience in building interactive and user-friendly web applications, demonstrating a solid foundation in front-end and back-end development.
+    
+    \item \textbf{Database Management and Cloud Technology:} Experienced in database skills with a focus on MS SQL 2000 and PL/SQL. Additionally, well-versed in cloud technologies, particularly Microsoft Azure Cloud. Able to design and optimize database systems for efficient data storage and retrieval in cloud environments.
+\end{itemize}
 
  
 
