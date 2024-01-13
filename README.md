@@ -34,6 +34,6 @@ Certifications:
 🏆 Microsoft SC-900
 
 Interests:
-📊 Data Science, Analysis, ☁️ Cloud Technologies, 📚 Continuous Learning, 👥 Collaboration, 💻 Software Development Engineering (SDE).
+ 💻 Software Development Engineering, 📊 Data Science, Analysis, ☁️ Cloud Technologies, 👥 Collaboration.
 
 Feel free to connect with me on LinkedIn or check out my GitHub for more projects and contributions! 🚀
