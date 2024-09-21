@@ -1,37 +1,33 @@
-<h1 align="center">Hi 👋, I'm Yash Joshi</h1>
-<h3 align="center">Actively seeking summer 2024 internships | MSCS @ UGA | Ex-Accenture | Python | ML & AI Enthusiast | SQL | .NET | Power BI | Azure Certified</h3>
+<h1 align="center">Hi 👋, I'm Yash Joshi</h1> <h3 align="center">Actively seeking summer 2024 internships | MSCS @ UGA | Ex-Accenture & Blue Bird | Data Analytics & Software Development | SQL | .NET | Power BI | Azure Certified</h3>
+Profile: 🎓 A dedicated Computer Science Master's student at the University of Georgia with nearly 2 years of professional experience across Accenture and Blue Bird. I specialize in database development, data analytics, and software engineering, with proven success in delivering high-impact solutions across supply chain and manufacturing domains.
 
+Skills:
 
-**Profile:**
-🎓 Enthusiastic computer engineering graduate student pursuing a Master's in Computer Science from the University of Georgia. I bring nearly 2 years of professional experience from Accenture, where I contributed to cross-platform application development using .NET, specializing in test automation, REST APIs, and database optimization.
+Programming Languages: C, C++, Java, Python, C#
+Web Application Tools: JavaScript, HTML, CSS
+Database Skills: SQL, PL/SQL, MS SQL Server
+Cloud Technology: Microsoft Azure Cloud
+Tools: SQL Server Management Studio, Microsoft Power BI, Azure Data Factory, Logic Apps
+Frameworks: .NET, ASP.NET, Entity Framework, Django
+Platforms: Windows, Linux
+Professional Achievements:
 
-**Skills:**
-- **Programming Languages:** C, C++, Java, Python, C#
-- **Web Application Tools:** JavaScript, HTML, CSS
-- **Database Skills:** MS SQL, PL/SQL
-- **Cloud Technology:** Microsoft Azure Cloud
-- **Tools:** SQL-Server Management Studio, Microsoft Power-BI (Basic)
-- **Platforms:** Windows XP/Vista/2000, Linux
-- **Framework:** Django, ASP.NET
+🚀 Cross-Platform Development & Optimization: Built and optimized .NET-based applications, improving data processing times by 30% and enhancing test data generation by 75% through advanced automation techniques.
 
-**Professional Achievements:**
-- 🚀 **Cross-Platform App Development:** Led the collaborative development of a robust cross-platform application using .NET, automating web/native app testing and boosting efficiency by 60%.
+⚙️ API & Database Engineering: Developed RESTful APIs with MVC architecture and Azure APIM, reducing response times by 25%. Designed and optimized relational databases with CTEs and indices to support high-performance data analytics.
 
-- ⚙️ **Resilient REST APIs:** Engineered REST APIs with Azure APIM and Postman, enhancing functionality for client applications.
+📊 Data Analytics & Reporting: Created Power BI dashboards from scratch for Blue Bird, boosting user interactivity by 65% and integrating multiple large datasets for comprehensive insights.
 
-- 📈 **Optimization and Efficiency:** Optimized MS-SQL table schemas, stored procedures, and implemented ETL workflows in Azure, reducing cloud operating costs by 30%.
+📈 Cloud Solutions: Developed and optimized Azure Data Factory pipelines and Logic Apps, achieving 30% savings in cloud operational costs.
 
-- 📊 **Data Analysis and Visualization:** Led a team in utilizing Power-BI for reports with interactive dashboards, accelerating data analysis by 40% and implementing advanced data visualization techniques.
+🔍 Problem Solving & Agile Development: Spearheaded resolution of 90% of production issues in Agile environments, managing daily client communications and ensuring project milestones were met with efficiency.
 
-- 🔍 **Problem-Solving and Agile Dev:** Promptly resolved client-reported bugs, played a pivotal role in high-profile projects, and implemented Git branching strategies for enhanced collaboration.
+Certifications:
 
-**Certifications:**
-- 🏆 Microsoft AZ-204
-- 🏆 Microsoft AZ-900
-- 🏆 Microsoft PL-900
-- 🏆 Microsoft SC-900
+🏆 Microsoft AZ-204: Developing Solutions for Microsoft Azure
+🏆 Microsoft AZ-900: Microsoft Azure Fundamentals
+🏆 Microsoft PL-900: Power Platform Fundamentals
+🏆 Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+Interests: 📊 Data Management & Analytics | 💻 Software Engineering | 📚 Continuous Learning 
 
-**Interests:**
-📊 Data Science, Analysis, ☁️ Cloud Technologies, 📚 Continuous Learning, 👥 Collaboration, 💻 Software Development Engineering (SDE).
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash-joshi818) or check out my [GitHub](https://github.com/ypjoshi18) for more projects and contributions! 🚀
+Feel free to connect with me on LinkedIn or check out my GitHub for more projects and contributions! 🚀
