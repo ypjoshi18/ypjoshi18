@@ -28,6 +28,6 @@ Certifications:
 🏆 Microsoft AZ-900: Microsoft Azure Fundamentals
 🏆 Microsoft PL-900: Power Platform Fundamentals
 🏆 Microsoft SC-900: Security, Compliance, and Identity Fundamentals
-Interests: 📊 Data Management & Analytics | 💻 Software Engineering | 📚 Continuous Learning 
 
-Feel free to connect with me on LinkedIn or check out my GitHub for more projects and contributions! 🚀
+
+Interests: 📊 Data Management & Analytics | 💻 Software Engineering | 📚 Continuous Learning 
