@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Joshi</h1> <h3 align="center">Actively seeking summer 2024 internships | MSCS @ UGA | Ex-Accenture & Blue Bird | Data Analytics & Software Development | SQL | .NET | Power BI | Azure Certified</h3>
+<h1 align="center">Hi 👋, I'm Yash Joshi</h1> <h3 align="center">Actively seeking Full-Time Opportunities | MSCS @ UGA | Ex-Accenture & Blue Bird | Data Analytics & Software Development | SQL | .NET | Power BI | Azure Certified</h3>
 Profile: 🎓 A dedicated Computer Science Master's student at the University of Georgia with nearly 2 years of professional experience across Accenture and Blue Bird. I specialize in database development, data analytics, and software engineering, with proven success in delivering high-impact solutions across supply chain and manufacturing domains.
 
 Skills:
